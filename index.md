@@ -5,6 +5,7 @@ RaspiRover Blog.
 ### Week 6
 
 *Blog Updated
+*Received PCB
 
 ### Week 5
 
