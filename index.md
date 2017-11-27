@@ -15,7 +15,7 @@ RaspiRover Blog.
 
 
 ### Week 2
-<img src="https://github.com/n01033296/RaspiRover/blob/master/ProposalContentLawrencePuigRev02.pdf" alt="Proposal Content" width="350" height="250">
+<img src="https://raw.github.com/n01033296/RaspiRover/blob/master/ProposalContentLawrencePuigRev02.jpg" alt="Proposal Content" width="350" height="250">
 ### Week 1
 
 ### Week 0
