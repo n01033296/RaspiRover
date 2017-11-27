@@ -13,7 +13,7 @@ RaspiRover Blog.
 
 ### Week 3
 
-<img src="https://github.com/n01033296/RaspiRover/blob/master/Proposal%20Schedule.PNG?raw=true" alt="Proposal Schedule" width="1080" height="500">
+<img src="https://github.com/n01033296/RaspiRover/blob/master/Proposal%20Schedule.PNG?raw=true" alt="Proposal Schedule" width="720" height="500">
 
 ### Week 2
 
