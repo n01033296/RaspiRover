@@ -10,6 +10,7 @@ RaspiRover Blog.
 ### Week 5
 
 *Recorded Arrival of Raspberry Pi.
+
 *Continuous Servos still being purchased, was unable to purchase from CREATRON online.
 *Strike
 
