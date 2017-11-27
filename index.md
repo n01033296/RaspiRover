@@ -5,6 +5,7 @@ RaspiRover Blog.
 ### Week 6
 
 *Blog Updated
+
 *Received PCB
 
 ### Week 5
@@ -12,6 +13,7 @@ RaspiRover Blog.
 *Recorded Arrival of Raspberry Pi.
 
 *Continuous Servos still being purchased, was unable to purchase from CREATRON online.
+
 *Strike
 
 ### Week 4
@@ -28,6 +30,7 @@ RaspiRover Blog.
 ### Week 2
 
 *Watched Soldering Videos
+
 *Project Proposal for RaspiRover
 
 <img src="https://github.com/n01033296/RaspiRover/blob/master/ProposalContent.png?raw=true" alt="Proposal Content" width="1280" height="1080">
@@ -35,11 +38,15 @@ RaspiRover Blog.
 ### Week 1
 
 *Github
+
 *RaspiRover
 
 ### Introduction
 
 *Short Quiz
+
 *Introductions
+
 *Critical Path
+
 *Deciding of a Project
