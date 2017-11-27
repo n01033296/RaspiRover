@@ -4,11 +4,16 @@ RaspiRover Blog.
 
 ### Week 6
 
+*Blog Updated
+
 ### Week 5
 
--Strike -
+*Recorded Arrival of Raspberry Pi
+*Strike
 
 ### Week 4
+
+*Project Budget Proposal 
 
 
 ### Week 3
