@@ -10,7 +10,11 @@ RaspiRover Blog.
 
 ### Week 5
 
-*Recorded Arrival of Raspberry Pi.
+*Arrival of Raspberry Pi.
+
+<img src="https://github.com/n01033296/RaspiRover/blob/master/RaspBerry%20Pi%203%20Kit%20and%20Sensor.jpg?raw=true" alt="Raspberry Pi and Sensors" width="720" height="500">
+
+<img src="https://github.com/n01033296/RaspiRover/blob/master/RaspBerry%20Pi%203%20Kit%20and%20Sensors%202.jpg?raw=true" alt="Raspberry Pi and Sensors 2" width="720" height="500">
 
 *Continuous Servos still being purchased, was unable to purchase from CREATRON online.
 
