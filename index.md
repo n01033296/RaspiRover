@@ -1,5 +1,18 @@
 RaspiRover Blog.
 -------------
+### Week 7
+*Soldered VIAS and Resistors
+
+<img src="https://github.com/n01033296/RaspiRover/blob/master/Resistors%20and%20VIAS%20soldered.jpg?raw=true" alt="PCB VIAS and Resistors Soldered" width="720" height="500">
+
+*Finished Soldering
+
+<img src="https://github.com/n01033296/RaspiRover/blob/master/PCB%20Soldered.png?raw=true" alt="PCB Finished Product" width="720" height="500">
+
+*Booted and installed Raspberry Pi 3 OS
+<img src="https://github.com/n01033296/RaspiRover/blob/master/First%20Raspberry%20Pi%203%20Run.jpg?raw=true" alt="Raspberry Pi 3" width="720" height="500">
+
+<img src="https://github.com/n01033296/RaspiRover/blob/master/Raspberry%20Pi%203%20Homescreen.jpg?raw=true" alt="Raspberry Pi 3 HomeScreen" width="720" height="500">
 
 
 ### Week 6
