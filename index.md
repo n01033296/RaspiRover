@@ -11,7 +11,7 @@ https://github.com/n01033296/RaspiRover/blob/master/Build%20Script.docx?raw=true
 
 *Recieved All remaining Parts for RaspiRover
 
-*PCB Fixed
+*PCB Fixed (No Longer Shorts)
 
 ### Week 7
 *Soldered VIAS and Resistors
