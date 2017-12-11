@@ -4,6 +4,9 @@ RaspiRover Blog.
 
 <img src="https://github.com/n01033296/RaspiRover/blob/master/Placard.png?raw=true" alt="Placard" width="600" height="800">
 
+*Build Script*
+https://github.com/n01033296/RaspiRover/blob/master/Build%20Script.docx?raw=true
+
 ### Week 8
 
 *Recieved All remaining Parts for RaspiRover
