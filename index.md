@@ -2,7 +2,7 @@ RaspiRover Blog.
 -------------
 ### Week 9
 
-<img src="https://github.com/n01033296/RaspiRover/blob/master/Placard.png?raw=true" alt="Placard" width="400" height="400">
+<img src="https://github.com/n01033296/RaspiRover/blob/master/Placard.png?raw=true" alt="Placard" width="400" height="800">
 
 ### Week 8
 
