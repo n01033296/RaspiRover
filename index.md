@@ -1,5 +1,15 @@
 RaspiRover Blog.
 -------------
+### Week 9
+
+<img src="https://github.com/n01033296/RaspiRover/blob/master/Placard.png?raw=true" alt="Placard" width="400" height="400">
+
+### Week 8
+
+*Recieved All remaining Parts for RaspiRover
+
+*PCB Fixed
+
 ### Week 7
 *Soldered VIAS and Resistors
 
