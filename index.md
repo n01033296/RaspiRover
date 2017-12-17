@@ -2,7 +2,9 @@ RaspiRover Blog.
 -------------
 ### Week 10
 
-https://youtu.be/GXcoVtbNrS4
+<iframe width="854" height="480" src="https://www.youtube.com/embed/GXcoVtbNrS4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+*30 Second Build Video*
 
 ### Week 9
 
