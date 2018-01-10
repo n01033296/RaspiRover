@@ -1,21 +1,21 @@
 RaspiRover Blog.
 -------------
-### Week 11
+## Week 11
 
-## Progress Report
-# Build Overall Progress:
+### Progress Report
+#### Build Overall Progress:
 	My project, the raspberry Pi Rover, is well progressing. As I continue to build the rover I clearly see the bugs, the difficulties and the future updates/designs I would like to implement into the project. With my testing on the RaspiRover I am able to now implement the wireless part of the Rover by including my Battery pack and using a VNC connection to control the rover. In the future I plan to have it fully mobile and possibly include two more wheels into the build for a much more easy maneuvering system. 
-# Bugs and Difficulties:
+#### Bugs and Difficulties:
 	The most difficult part of this project was to implement the sensors. Although I believed the wiring was well done I felt as if the sensors were not as accurate enough to be tested properly on my rover. Sensors used: Elegoo HC-SR04 Ultrasonic. These sensors are used to calculate how far objects are. But as I tested these sensors it would either give me random detected objects or just not function at all. Another problem I have encountered was using the wrong voltage for a micro servo motor which caused it to burn out the motor and this was fixed by switching from 5V to 3.3V input.
-Budget Report:
+#### Budget Report:
 	With all my parts purchased and working correctly, my final budget report has been properly calculated and I have not spent more than my intended budget. 
-# Plans for the Future:
+#### Plans for the Future:
 	With my Rover almost fully built and functional, I plan to implement a software app into the project which I have been working on in Android Studios. This app will allow me to fully control the RaspiRover and will also allow me to receive the Sensors correct measurements.
-# References during Build:
+#### References during Build:
 Micro Servo Motor Pin Diagram: https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=&url=http%3A%2F%2Fwww.fatlion.com%2Fsailplanes%2Fservos.html&psig=AOvVaw0gGnHbBWnEyt9YOCwyt6DF&ust=1515515095239617
 
 
-### Week 10
+## Week 10
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/GXcoVtbNrS4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
