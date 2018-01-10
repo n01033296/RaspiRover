@@ -21,20 +21,20 @@ Micro Servo Motor Pin Diagram: https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&so
 
 *30 Seconds Build Video*
 
-### Week 9
+## Week 9
 
 <img src="https://github.com/n01033296/RaspiRover/blob/master/Placard.png?raw=true" alt="Placard" width="600" height="800">
 
 *Build Script*
 https://github.com/n01033296/RaspiRover/blob/master/Build%20Script.docx?raw=true
 
-### Week 8
+## Week 8
 
 *Recieved All remaining Parts for RaspiRover
 
 *PCB Fixed (No Longer Shorts)
 
-### Week 7
+## Week 7
 *Soldered VIAS and Resistors
 
 <img src="https://github.com/n01033296/RaspiRover/blob/master/Resistors%20and%20VIAS%20soldered.jpg?raw=true" alt="PCB VIAS and Resistors Soldered" width="400" height="400">
@@ -49,13 +49,13 @@ https://github.com/n01033296/RaspiRover/blob/master/Build%20Script.docx?raw=true
 <img src="https://github.com/n01033296/RaspiRover/blob/master/Raspberry%20Pi%203%20Homescreen.jpg?raw=true" alt="Raspberry Pi 3 HomeScreen" width="720" height="500">
 
 
-### Week 6
+## Week 6
 
 *Blog Updated
 
 *Received PCB
 
-### Week 5
+## Week 5
 
 *Arrival of Raspberry Pi.
 
@@ -67,18 +67,18 @@ https://github.com/n01033296/RaspiRover/blob/master/Build%20Script.docx?raw=true
 
 *Strike
 
-### Week 4
+## Week 4
 
 *Project Budget Proposal 
 
 
-### Week 3
+## Week 3
 
 *Emailed PCB Diagram to Vlad
 
 <img src="https://github.com/n01033296/RaspiRover/blob/master/Proposal%20Schedule.PNG?raw=true" alt="Proposal Schedule" width="720" height="500">
 
-### Week 2
+## Week 2
 
 *Watched Soldering Videos
 
@@ -86,13 +86,13 @@ https://github.com/n01033296/RaspiRover/blob/master/Build%20Script.docx?raw=true
 
 <img src="https://github.com/n01033296/RaspiRover/blob/master/ProposalContent.png?raw=true" alt="Proposal Content" width="1280" height="1080">
 
-### Week 1
+## Week 1
 
 *Github
 
 *RaspiRover
 
-### Introduction
+## Introduction
 
 *Short Quiz
 
