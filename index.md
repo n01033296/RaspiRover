@@ -3,7 +3,8 @@ RaspiRover Blog.
 -------------
 ## Week 12
 
-RaspiRover/RaspiRover.pptx
+#### Presentation Power Point:
+https://github.com/n01033296/RaspiRover/blob/master/RaspiRover.pptx?raw=true
 
 ## Week 11
 
