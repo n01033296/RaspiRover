@@ -1,4 +1,5 @@
 
+
 RaspiRover Blog.
 -------------
 
@@ -16,7 +17,24 @@ Lazer Cut printed Chasis from Humber		n/a
 
 #### Time Commitment
 
+###### Tasks					Duration (Estimated)
+
+Raspberry Pi 3 Setup				15 minutes
+Rover Build					30 minutes
+Micro Servo Wiring				15 minutes
+Code implementation				30 minutes
+
 #### Mechanical Assembly
+
+ - Assemble the three piece 3D Lazer cut Chassis
+ - Screw the two Micro Servo Motors into the Chassis
+ - Place the Power Bank on top of the Chasis and secure into place with glue or tape.
+ - Place the Raspberry Pi 3 on top of the Power Bank and secure into place with glue or tape.
+ 
+#### Wiring Assembly
+
+##### Referal Images for Wiring
+
 
 #### Power Up
 
