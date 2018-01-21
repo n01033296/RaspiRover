@@ -11,9 +11,13 @@ RaspiRover Blog.
 ###### Products					Cost
 
 Raspberry pi 3 Starter kit 			$99.99
+
 Micro Servo Motor Continuous Rotation(2)	$21.99
+
 Portable Power Bank(Optional for Power)		$19.99
+
 Lazer Cut printed Chasis from Humber		n/a
+
 ######						Total: $160.43
 
 #### Time Commitment
@@ -21,8 +25,11 @@ Lazer Cut printed Chasis from Humber		n/a
 ###### Tasks					Duration (Estimated)
 
 Raspberry Pi 3 Setup				15 minutes
+
 Rover Build					30 minutes
+
 Micro Servo Wiring				15 minutes
+
 Code implementation				30 minutes
 
 #### Mechanical Assembly
