@@ -9,21 +9,21 @@ RaspiRover Blog.
 
 Raspberry pi 3 Starter kit 			
 
-####### $99.99
+###### $99.99
 
 Micro Servo Motor Continuous Rotation(2)	
 
-####### $21.99
+###### $21.99
 
 Portable Power Bank(Optional for Power)		
 
-####### $19.99
+###### $19.99
 
 Lazer Cut printed Chasis from Humber		
 
-####### n/a
+###### n/a
 
-#######						Total: $160.43
+######						Total: $160.43
 
 #### Time Commitment
 
