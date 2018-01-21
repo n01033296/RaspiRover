@@ -8,9 +8,9 @@ RaspiRover Blog.
 
 #### Bill of Materials/Budget
 
-###### Products					Cost
+###### Products	/t /t /t /t			Cost
 
-Raspberry pi 3 Starter kit 			$99.99
+Raspberry pi 3 Starter kit /t /t /t		$99.99
 
 Micro Servo Motor Continuous Rotation(2)	$21.99
 
