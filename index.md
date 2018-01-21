@@ -35,9 +35,9 @@ Code implementation				30 minutes
 
 ##### Referal Images for Wiring
 
-<img src="https://github.com/n01033296/RaspiRover/blob/master/Documentation/GPIO%20Raspberry%20Pi%203.png" alt="GPIO Raspberry Pi 3" width="400" height="400">
+<img src="RaspiRover/Documentation/GPIO Raspberry Pi 3.png" alt="GPIO Raspberry Pi 3" width="400" height="400">
 
-<img src="https://github.com/n01033296/RaspiRover/blob/master/Resistors%20and%20VIAS%20soldered.jpg?raw=true" alt="PCB VIAS and Resistors Soldered" width="400" height="400">
+<img src="RaspiRover/Documentation/Servo Motor IO.png " alt="Servo Motor IO" width="400" height="400">
 
 
 
