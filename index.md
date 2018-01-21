@@ -1,5 +1,6 @@
 
 
+
 RaspiRover Blog.
 -------------
 
@@ -39,15 +40,9 @@ Code implementation				30 minutes
 
 <img src="RaspiRover/Documentation/Servo Motor IO.png " alt="Servo Motor IO" width="400" height="400">
 
-
-
-#### Power Up
-
-#### Unit Testing
-
-#### Production Testing
-
-#### Is the Project Reproducible?
+ - Correctly Wire the Servo Motors into the Raspberry Pi 3
+ - One Motor signal into GPIO 7
+ - One Motor signal into GPIO 11
 
 ## Week 12
 
