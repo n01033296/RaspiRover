@@ -1,6 +1,3 @@
-
-
-
 RaspiRover Blog.
 -------------
 
@@ -8,17 +5,25 @@ RaspiRover Blog.
 
 #### Bill of Materials/Budget
 
-###### Products	/t /t /t /t			Cost
+###### Products					
 
-Raspberry pi 3 Starter kit /t /t /t		$99.99
+Raspberry pi 3 Starter kit 			
 
-Micro Servo Motor Continuous Rotation(2)	$21.99
+####### $99.99
 
-Portable Power Bank(Optional for Power)		$19.99
+Micro Servo Motor Continuous Rotation(2)	
 
-Lazer Cut printed Chasis from Humber		n/a
+####### $21.99
 
-######						Total: $160.43
+Portable Power Bank(Optional for Power)		
+
+####### $19.99
+
+Lazer Cut printed Chasis from Humber		
+
+####### n/a
+
+#######						Total: $160.43
 
 #### Time Commitment
 
