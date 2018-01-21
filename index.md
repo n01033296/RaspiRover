@@ -1,6 +1,31 @@
 
 RaspiRover Blog.
 -------------
+
+## Week 13
+
+#### Bill of Materials/Budget
+
+###### Products					Cost
+
+Raspberry pi 3 Starter kit 			$99.99
+Micro Servo Motor Continuous Rotation(2)	$21.99
+Portable Power Bank(Optional for Power)		$19.99
+Lazer Cut printed Chasis from Humber		n/a
+######						Total: $160.43
+
+#### Time Commitment
+
+#### Mechanical Assembly
+
+#### Power Up
+
+#### Unit Testing
+
+#### Production Testing
+
+#### Is the Project Reproducible?
+
 ## Week 12
 
 #### Presentation Power Point:
@@ -62,8 +87,6 @@ https://github.com/n01033296/RaspiRover/blob/master/Build%20Script.docx?raw=true
 
 ## Week 6
 
-*Blog Updated
-
 *Received PCB
 
 ## Week 5
@@ -81,7 +104,7 @@ https://github.com/n01033296/RaspiRover/blob/master/Build%20Script.docx?raw=true
 ## Week 4
 
 *Project Budget Proposal 
-
+https://github.com/n01033296/RaspiRover/blob/master/Documentation/ProjectBudgetPropLawrencePuig.xlsx?raw=true
 
 ## Week 3
 
